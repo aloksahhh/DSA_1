@@ -1,4 +1,4 @@
-package DSA_1;
+//package DSA_1;
 
 // order dignostic binary search(first find weather the array is in ascending or descending order).
 

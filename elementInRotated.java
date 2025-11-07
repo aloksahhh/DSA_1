@@ -1,4 +1,4 @@
-package DSA_1;
+//package DSA_1;
 
 public class elementInRotated {
     public static void main(String[] args) {

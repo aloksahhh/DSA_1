@@ -1,6 +1,6 @@
-package DSA_1;
+//package DSA_1;
 
-import java.util.*; 
+//import java.util.*; 
 
 public class linearSearch {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package DSA_1;
+//package DSA_1;
 
 public class nearlySorted {
      public static void main(String[] args) {

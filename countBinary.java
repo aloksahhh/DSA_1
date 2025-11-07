@@ -1,4 +1,4 @@
-package DSA_1;
+//package DSA_1;
 
 // count the no of target element in the sorted array
 public class countBinary {
