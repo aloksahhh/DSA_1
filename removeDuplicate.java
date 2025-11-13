@@ -1,3 +1,4 @@
+//remove duplicate numbers from the array leetcode problem.
 import java.util.*;
 public class removeDuplicate {
     public static void main(String[] args) {
